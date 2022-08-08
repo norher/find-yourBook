@@ -6,6 +6,10 @@
 
 https://opensource.org/licenses/Apache-2.0
 
+![Image](./client/Screenshot%202022-08-07%20221100.png)
+
+[Deployed Site](https://thawing-chamber-63809.herokuapp.com/)
+
 ## Table of contents
 
 - [Description](#description)
