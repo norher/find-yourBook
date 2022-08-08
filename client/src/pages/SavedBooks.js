@@ -1,11 +1,5 @@
 import React, { useState } from 'react';
-import {
-  Jumbotron,
-  Container,
-  CardColumns,
-  Card,
-  Button,
-} from 'react-bootstrap';
+import { Jumbotron, Container, CardColumns, Card, Button, } from 'react-bootstrap';
 
 // import { getMe, deleteBook } from '../utils/API';
 import { useQuery, useMutation } from '@apollo/client';
